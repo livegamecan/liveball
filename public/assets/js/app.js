@@ -21,7 +21,7 @@ $(document).ready(() => {
     // });
 
     setTimeout(function () {
-        let targetLive = "roman_sherifi_live";
+        let targetLive = "azbesdir";
         connect(targetLive);
     }, 5000);
 
