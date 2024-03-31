@@ -21,7 +21,7 @@ $(document).ready(() => {
     // });
 
     setTimeout(function () {
-        let targetLive = "azbesdir";
+        let targetLive = "thenunaze";
         connect(targetLive);
     }, 5000);
 
