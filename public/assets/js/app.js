@@ -21,7 +21,7 @@ $(document).ready(() => {
     // });
 
     setTimeout(function () {
-        let targetLive = "elvira_officiall1";
+        let targetLive = "azbesdir";
         connect(targetLive);
     }, 5000);
 
