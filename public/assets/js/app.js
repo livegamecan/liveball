@@ -21,7 +21,7 @@ $(document).ready(() => {
     // });
 
     setTimeout(function () {
-        let targetLive = "mnigii";
+        let targetLive = "nunu.orucova";
         connect(targetLive);
     }, 5000);
 
