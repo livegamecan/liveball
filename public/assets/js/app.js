@@ -21,7 +21,7 @@ $(document).ready(() => {
     // });
 
     setTimeout(function () {
-        let targetLive = "nunu.orucova";
+        let targetLive = "elvira_officiall1";
         connect(targetLive);
     }, 5000);
 
