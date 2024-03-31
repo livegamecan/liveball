@@ -21,7 +21,7 @@ $(document).ready(() => {
     // });
 
     setTimeout(function () {
-        let targetLive = "thenunaze";
+        let targetLive = "azadnuri";
         connect(targetLive);
     }, 5000);
 
