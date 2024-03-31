@@ -21,7 +21,7 @@ $(document).ready(() => {
     // });
 
     setTimeout(function () {
-        let targetLive = "azadnuri";
+        let targetLive = "mnigii";
         connect(targetLive);
     }, 5000);
 
